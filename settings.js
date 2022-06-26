@@ -23,18 +23,18 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'ArullOfc' // Ganti Jadi Namamu
-  global.owner = ['6285822347348','6285822347348','6285822347348'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6285822347348' // Owner Utama Istilahnya
-  global.botname = 'ArullBotzMD' // Ganti Jadi Nama Botmu
+  global.ownername = 'TristanYT' // Ganti Jadi Namamu
+  global.owner = ['6281290867594'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6281290867594' // Owner Utama Istilahnya
+  global.botname = 'IzumiBotz' // Ganti Jadi Nama Botmu
   global.packname = 'Sticket By' // Sticker Weem
-  global.author = 'ArullOfc' // Sticker Weem
+  global.author = 'IzumiBotz' // Sticker Weem
   global.webme = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/sahrulwara_____' // Ganti Sama Link Ig mu
+  global.youtube = '-' // Ganti Sama Link Yt Mu
+  global.github = '-' // Ganti Sama Link Github Mu
+  global.instagram = '-' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -67,7 +67,7 @@
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
-  global.thumb = fs.readFileSync('./media/20220625_223313.png')
+  global.thumb = fs.readFileSync('./media/chika.png')
     
   // Ini Gausah Diubah
   let file = require.resolve(__filename)
