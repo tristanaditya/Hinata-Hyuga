@@ -29,11 +29,11 @@
   global.botname = 'ArullBotzMD' // Ganti Jadi Nama Botmu
   global.packname = 'Sticket By' // Sticker Weem
   global.author = 'ArullOfc' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1' // Ganti Sama Link Gc Mu
+  global.webme = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/Arullwara' // Ganti Sama Link Github Mu
+  global.youtube = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Link Yt Mu
+  global.github = 'https://github.com/' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/sahrulwara_____' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
