@@ -1,6 +1,6 @@
 {
   "creds": {
-    "noiseKey": {
+    "pnoiseKey": {
       "private": {
         "type": "Buffer",
         "data": "2BtPsxRdp9yM51WobenCp9bla7jvCKBgpsSDd9M76X0="
