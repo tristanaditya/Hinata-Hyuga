@@ -29,8 +29,8 @@
   global.botname = 'IzumiBotz' // Ganti Jadi Nama Botmu
   global.packname = 'Sticket By' // Sticker Weem
   global.author = 'IzumiBotz' // Sticker Weem
-  global.webme = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' // Ganti Sama Link Gc Mu
+  global.webme = '-' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/FlC0RIOfBVrECl8x2XAtd4' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = '-' // Ganti Sama Link Yt Mu
   global.github = '-' // Ganti Sama Link Github Mu
