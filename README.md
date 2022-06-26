@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/e39700906c2c93d583f20.jpg" alt="Hinata-Hyuga" width="100"/>
+<img src="https://telegra.ph/file/ab2e227a8cc3030c6e756.jpg" alt="ARULL OFC" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ARULL OFC" src="https://img.shields.io/badge/ARULLOFC-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-ArullBotzMD](https://wa.me/6285822347348)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -81,17 +81,15 @@ global.instagram = 'https://instagram.com/riychdwayne'
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/U1suj4wuWvc"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
+  <a href="https://youtu.be/w1iMJS0ib-w"><img src="https://telegra.ph/file/16439aae79bfc03670635.jpg" />
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6285822347348?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6285822347348?text=Bang+mau+donasi)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Group 1](https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS)
 
 # Thanks to
 - Dika Ardnt
@@ -103,3 +101,4 @@ global.instagram = 'https://instagram.com/riychdwayne'
 - Deff
 - Yoga
 - Riy
+- ARULL OFC 
