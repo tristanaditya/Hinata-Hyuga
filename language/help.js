@@ -79,7 +79,7 @@
   // List
   exports.list = (pushname, ucapanWaktu) => {
   return`${ucapanWaktu}
-Hai ${pushname} silahkan dipilih list menu dibawah ini.
+Hallo ${pushname} silahkan dipilih list menu dibawah ini.
   `
   }
 
@@ -620,32 +620,32 @@ zarrah, niscaya dia akan melihat
   return`
 *SEWA BOT 💫*
 
-📆 1 Minggu : Rp. 10.000,00
-📆 1 Bulan : Rp. 20.000,00
-📆 1 Tahun : Rp. 100.000,00
+📆 1 Minggu : Rp. 5.000,00
+📆 1 Bulan : Rp. 10.000,00
+📆 1 Tahun : Rp. 30.000,00
 📆 Permanen : Buat Bot Sendiri!!!
 
 *🏦 PAYMENT :*
-- Gopay
-- Dana
+•pulsa:085822347348 [indosat]
+•dana :085822347348
   `
   }
 
   // Welcome
   exports.welcome = () => {
-  return `Intro Dulu Yuk Biar Keren 🤙
+  return `*Intro Dulu Yuk Biar Keren*
 
 📛 Nama : 
 🔞 Umur :
 🏙️ Askot :
 
-Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada
+*Semoga Betah Yah😚*
   `
   }
 
   // Leave
   exports.goodbye = () => {
-  return `Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🤙🗿
+  return `*Tetap Putus Asa Jangan semangat*
   `
   } 
 
